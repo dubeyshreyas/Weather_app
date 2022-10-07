@@ -7,7 +7,7 @@
 
 // API_KEY for maps api
 let API_KEY = "3a072bfb0b864c49546c1087a1132317";
-// let API_KEY = "3a072bfb0b864c49546c1087a1132317";
+
 
 /**
  * Retrieve weather data from openweathermap
